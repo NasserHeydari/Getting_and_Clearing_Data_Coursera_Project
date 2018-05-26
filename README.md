@@ -18,3 +18,9 @@ The sensor signals (accelerometer and gyroscope) were pre-processed by applying 
 
 
 The purpose of this project/code is to demonstrate the ability to collect, work with, and clean a data set. The goal is to prepare tidy data that can be used for later analysis. 
+  
+The code is written in R. You only need to provide the path and run the code. Note that:
+
+1. The variable called "Data" brings you a nice tidy dataset to work with.
+2. The variable called "mean_std_features" subsets the measurements on the mean and standard deviation for each measurement.    
+3. The variable called "mean_data_by_group" creates an independent tidy data set with the average of each variable for each activity and each subject. 
