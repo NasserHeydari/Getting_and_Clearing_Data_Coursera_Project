@@ -621,3 +621,13 @@ tBodyGyroJerkMean
 560 angle(Y,gravityMean)
 561 angle(Z,gravityMean)
 
+# Activity Labels
+
+1 WALKING
+2 WALKING_UPSTAIRS
+3 WALKING_DOWNSTAIRS
+4 SITTING
+5 STANDING
+6 LAYING
+
+
