@@ -1,18 +1,17 @@
-features_path <- "C:/Users/nah315/Desktop/DataScience/GetClearData/CourseProject/UCI HAR Dataset/features.txt"
 
-x_train_path <- "C:/Users/nah315/Desktop/DataScience/GetClearData/CourseProject/UCI HAR Dataset/train/X_train.txt"
+features_path <- "...../features.txt"
 
-y_train_path <- "C:/Users/nah315/Desktop/DataScience/GetClearData/CourseProject/UCI HAR Dataset/train/y_train.txt"
+x_train_path <- "..../X_train.txt"
 
-subject_train_path <- "C:/Users/nah315/Desktop/DataScience/GetClearData/CourseProject/UCI HAR Dataset/train/subject_train.txt"
+y_train_path <- ".../y_train.txt"
 
-x_test_path <- "C:/Users/nah315/Desktop/DataScience/GetClearData/CourseProject/UCI HAR Dataset/test/X_test.txt"
+subject_train_path <- "..../subject_train.txt"
 
-y_test_path <- "C:/Users/nah315/Desktop/DataScience/GetClearData/CourseProject/UCI HAR Dataset/test/y_test.txt"
+x_test_path <- "..../X_test.txt"
 
-subject_test_path <- "C:/Users/nah315/Desktop/DataScience/GetClearData/CourseProject/UCI HAR Dataset/test/subject_test.txt"
+y_test_path <- "..../y_test.txt"
 
-activity_labels <- "C:/Users/nah315/Desktop/DataScience/GetClearData/CourseProject/UCI HAR Dataset/activity_labels.txt"
+subject_test_path <- "..../subject_test.txt"
 
 #*********************************************************************************************
 
