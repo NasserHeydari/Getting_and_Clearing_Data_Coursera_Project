@@ -23,6 +23,6 @@ The code is written in R. You only need to provide the path and run the code. No
 
 1. The variable called "Data" brings you a nice tidy dataset to work with.
 2. The variable called "mean_std_features" subsets the measurements on the mean and standard deviation for each measurement.    
-3. The variable called "mean_data_by_group" creates an independent tidy data set with the average of each variable for each activity and each subject. 
+3. The variable called "mean_data_by_group" creates an independent tidy data set with the average of each variable for each activity and each subject from the data set in step 2.
 
 link to the data: https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip
