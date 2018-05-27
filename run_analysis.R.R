@@ -67,3 +67,5 @@ colnames(mean_data_by_group)[which(names(mean_data_by_group) == "Group.1")] <- "
 
 colnames(mean_data_by_group)[which(names(mean_data_by_group) == "Group.2")] <- "subject"
 
+write.table(mean_data_by_group,"Final.txt",row.name=FALSE)
+
